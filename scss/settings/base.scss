@@ -1,0 +1,18 @@
+body{
+    font-size: $base-size;
+    color: $base-color;
+}
+
+p{
+    margin: 0;
+}
+
+h1,h2,h3{
+    margin: 0;
+}
+
+.container{
+    width: 95%;
+    max-width: $container;
+    margin: 0 auto;
+}
